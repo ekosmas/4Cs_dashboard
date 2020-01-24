@@ -1,8 +1,14 @@
 # Enhance Map Plugin #
 
-TODO Describe the plugin shortly here.
+The “4Cs Dashboard” is a descriptive learning analytics dashboard for promoting 
+the practice of four learning behaviours among students. These are called “Consume”, 
+“Create”, “Connect” and “Contribute” behaviours. Those behaviours can be considered 
+as representative of the way in which Self-Regulated Learning (SRL) takes place in 
+professional learning online communities. The “4Cs Dashboard” plugin, as an interactive 
+visual representation, allows students to self-monitor their own learning behaviors,
+providing them with two different views: individual and collective (i.e., “Nurse Sally’s 
+4Cs Dashboard”).
 
-TODO Provide more detailed description here.
 
 ## License ##
 
